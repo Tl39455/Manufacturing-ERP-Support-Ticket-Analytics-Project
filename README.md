@@ -54,7 +54,7 @@ Resolution performance
 Open vs closed tickets
 
 ### ERP Ticket Queue
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+![]()
 
 ### Power BI Dashboard & Ticket Resolution Metrics
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/73eb3ee1443e0f9e121ca9b78df0444dc880ecbe/erp-powerbi-display.png)
