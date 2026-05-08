@@ -4,6 +4,7 @@ This project simulates a real-world ERP application support environment using QA
 ### Skills Demonstrated
 
 Technical Skills
+
 ERP Application Support
 Power BI Dashboard Reporting
 Excel Data Management
