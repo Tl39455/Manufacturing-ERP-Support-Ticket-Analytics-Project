@@ -41,7 +41,7 @@ Resolution documentation
 SLA tracking
 Ticket lifecycle management
 
-###Power BI Dashboard
+### Power BI Dashboard
 
 Interactive dashboards were created to monitor:
 
