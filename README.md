@@ -53,8 +53,10 @@ SLA compliance
 Resolution performance
 Open vs closed tickets
 
-### ERP Ticket Queue
-![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/f562a941d200b284b0f43f549d644eeae2038007/erp-powerbi-full-table-display.png)
+### ERP Ticket Queue Full and Filtered
+![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display.png)
+
+![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display-terry.png)
 
 ### Power BI Dashboard & Ticket Resolution Metrics
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/73eb3ee1443e0f9e121ca9b78df0444dc880ecbe/erp-powerbi-display.png)
