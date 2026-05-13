@@ -1,5 +1,5 @@
 # Manufacturing-ERP-Support-Ticket-Analytics-Project
-This project simulates a real-world ERP application support environment using QAD ERP and Ignition QMI manufacturing systems. The project includes ERP support ticket management, troubleshooting workflows, root cause analysis, ticket resolution tracking, and Power BI dashboard reporting for manufacturing operations.
+This project simulates a real-world ERP application support environment using ERP manufacturing systems. The project includes ERP support ticket management, troubleshooting workflows, root cause analysis, ticket resolution tracking, and Power BI dashboard reporting for manufacturing operations.
 
 ### Skills Demonstrated
 
@@ -7,6 +7,7 @@ This project simulates a real-world ERP application support environment using QA
 - ERP Application Support
 - Power BI Dashboard Reporting
 - Excel Data Management
+- SQL Data Management
 - IT Ticket Queue Management
 - Root Cause Analysis
 - Production Workflow Troubleshooting
@@ -53,8 +54,10 @@ Interactive dashboards were created to monitor:
 - Resolution performance
 - Open vs closed tickets
 
-### ERP Ticket Queue Full and Filtered
+### ERP Ticket Queue Full and Filtered with Exel and SQL
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display.png)
+
+![]()
 
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display-terry.png)
 
