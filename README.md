@@ -54,7 +54,7 @@ Interactive dashboards were created to monitor:
 - Resolution performance
 - Open vs closed tickets
 
-### ERP Ticket Queue Full and Filtered with Exel and SQL
+### ERP Ticket Queue Full and Filtered with Excel and SQL
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display.png)
 
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/77f16b94fd1fe0dffdfaedd471c4311fa927da30/erp-sql-database-display.png)
