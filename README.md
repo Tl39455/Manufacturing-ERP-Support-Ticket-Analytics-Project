@@ -54,10 +54,14 @@ Interactive dashboards were created to monitor:
 - Resolution performance
 - Open vs closed tickets
 
+### SQL ERP Database in DBeaver and SQL Server
+![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/1913456e90d705f14918035446b4be2d24b90090/erp-sql-database.png)
+
+![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/77f16b94fd1fe0dffdfaedd471c4311fa927da30/erp-sql-database-display.png)
+
 ### ERP Ticket Queue Full and Filtered with Excel and SQL
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display.png)
 
-![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/77f16b94fd1fe0dffdfaedd471c4311fa927da30/erp-sql-database-display.png)
 
 ![](https://github.com/Tl39455/Manufacturing-ERP-Support-Ticket-Analytics-Project/blob/847c18d040f7710d8d32e2325a1caefdb4aca09c/erp-powerbi-full-table-display-terry.png)
 
